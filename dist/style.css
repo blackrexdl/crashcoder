@@ -23,7 +23,7 @@ header {
     padding: 15px;
    width: 97%;
  margin: 10px;
-  margin right: auto;
+  margin-right: auto;
   border-radius: 110px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: flex;
@@ -845,7 +845,7 @@ footer {
 footer1 {
     background: #333;
     text-align: center;
-    text-color: 000000;
+    color: 000000;
     padding: 10px 0;
     position: fixed;
     width: 100%;
